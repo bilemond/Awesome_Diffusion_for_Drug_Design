@@ -26,7 +26,7 @@
   [ICML 2022](https://proceedings.mlr.press/v162/hoogeboom22a.html) [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)]    
 
 * **Geometry-Complete Diffusion for 3D Molecule Generation and Optimization** (GCDM)    
-  Alex Morehead, Jianlin Cheng    
+  Alex Morehead, Jianlin Cheng  
   [arXiv:2302.04313 (2023)](https://arxiv.org/abs/2302.04313)    
 
 * **MDM: Molecular Diffusion Model for 3D Molecule Generation** (MDM)     
@@ -41,68 +41,69 @@
   Han Huang, Leilei Sun, Bowen Du, Weifeng Lv      
   [arXiv:2305.12347 (2023)](https://arxiv.org/abs/2305.12347)    
 
-* **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** (MiDi)
-  Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard
-  [arXiv:2302.09048 (2023)](https://arxiv.org/abs/2302.09048)
+* **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** (MiDi)  
+  Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard  
+  [arXiv:2302.09048 (2023)](https://arxiv.org/abs/2302.09048)  
 
-- **Domain-Agnostic Molecular Generation with Self-feedback** 
-  [Paper\]](https://arxiv.org/abs/2301.11259)[[Code\]](https://github.com/zjunlp/MolGen)
-  [arXiv 2023]
+- **Domain-Agnostic Molecular Generation with Self-feedback**   
+  [Paper\]](https://arxiv.org/abs/2301.11259)[[Code\]](https://github.com/zjunlp/MolGen)  
+  [arXiv 2023]  
 
 - 
 
 ### Target-Aware Generation
 
-- **Structure-based Drug Design with Equivariant Diffusion Models**
-  Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia
-  [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  [[Github](https://github.com/arneschneuing/DiffSBDD)]
+- **Structure-based Drug Design with Equivariant Diffusion Models**  
+  Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia  
+  [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  [[Github](https://github.com/arneschneuing/DiffSBDD)]  
 
-- **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** (TargetDiff)
-  Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma
-  [ICLR 2023](https://arxiv.org/abs/2303.03543)
+- **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** (TargetDiff)  
+  Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma  
+  [ICLR 2023](https://arxiv.org/abs/2303.03543)  
 
 - 
 
-### Conformation Generation(append)
+### Conformation Generation(append)  
 
-- **Torsional Diffusion for Molecular Conformer Generation**
-  Bowen Jing, Gabriele Corso, Regina Barzilay, Tommi S. Jaakkola*
-  ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)]
-- **Predicting Molecular Conformation via Dynamic Graph Score Matching**
-  Shitong Luo, Chence Shi, Minkai Xu, Jian Tang*
-  NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)]
-- **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** (GeoDiff)
-  Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang
-  [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)
+- **Torsional Diffusion for Molecular Conformer Generation**  
+  Bowen Jing, Gabriele Corso, Regina Barzilay, Tommi S. Jaakkola*  
+  ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)]  
+  
+- **Predicting Molecular Conformation via Dynamic Graph Score Matching**  
+  Shitong Luo, Chence Shi, Minkai Xu, Jian Tang*  
+  NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)]  
+- **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** (GeoDiff)  
+  Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang  
+  [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)  
 - 
 
 ## Molecular Optimization For Drug Design
 
-- **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]
-  Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.
-  [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463)
-- **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [2023]
-  Huang, Lei.
-  [bioRxiv 2023.01.28.526011](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1)
+- **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]  
+  Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.  
+  [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463)  
+- **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [2023]  
+  Huang, Lei.  
+  [bioRxiv 2023.01.28.526011](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1)  
 
 ### Fragment-based drug discovery
 
 * **ReBADD-SE: Multi-objective molecular optimization using SELFIES fragment and off-policy self-critical sequence training** [2023]   
   Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
-  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE) 
+  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE)   
 * 
 
 ### Scaffold-based DMGs
 
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
   Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
-  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377) 
+  [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377)   
 
 * 
 
 ## Structure-based deep molecular generative models
 
-* **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]
+* **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]  
   Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
   [IEEE Transactions on Artificial Intelligence (2024)](https://doi.org/10.1109/TAI.2024.3387402)  |  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
 * **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
@@ -111,18 +112,18 @@
 * **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
   Ziv, Yael, Brian Marsden, and Charlotte Deane.    
   [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 
-* **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** [2024] 
-  Huang, L., Xu, T., Yu, Y. et al. 
+* **A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets** [2024]   
+  Huang, L., Xu, T., Yu, Y. et al.   
   [Nat Commun 15, 2657 (2024)](https://doi.org/10.1038/s41467-024-46569-1)  |  [code](https://github.com/Layne-Huang/PMDM)   
-* **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023] 
+* **KGDiff: towards explainable target-aware molecule generation with knowledge guidance** [2023]   
   Hao Qian, Wenjing Huang, Shikui Tu, Lei Xu.    
-  [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff) 
+  [Briefings in Bioinformatics.  (2023)](https://doi.org/10.1093/bib/bbad435)  |  [code](https://github.com/CMACH508/KGDiff)   
 * **Geometric Deep Learning for Structure-Based Ligand Design** [2023]   
   Alexander S. Powers, Helen H. Yu, Patricia Suriana, Rohan V. Koodli, Tianyu Lu, Joseph M. Paggi, and Ron O. Dror.   
   [ACS Cent. Sci. (2023)](https://doi.org/10.1021/acscentsci.3c00572) 
 * **Autoregressive fragment-based diffusion for pocket-aware ligand design** [2023]   
   Ghorbani, Mahdi, Leo Gendelev, Paul Beroza, and Michael Keiser.    
-  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff) 
+  [NeurIPS 2023 Generative AI and Biology (GenBio) Workshop.  (2023)](https://openreview.net/forum?id=E3HN48zjam) |  [code](https://github.com/ghorbanimahdi73/autofragdiff)   
 * **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
   Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
   [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377) 
@@ -147,59 +148,59 @@
 
 **quantitative estimation of drug-likeness**  
 
-* **Quantifying the chemical beauty of drugs**  [2012]
-  Bickerton, G., Paolini, G., Besnard, J. et al. 
+* **Quantifying the chemical beauty of drugs**  [2012]  
+  Bickerton, G., Paolini, G., Besnard, J. et al.   
   [Nature Chem 4, 90–98 (2012)](https://doi.org/10.1038/nchem.1243) |  [code](https://github.com/AspirinCode/DrugAI_Drug-Likeness) 
 
 ### SAscore 
 
 > Target-Aware Generation
 
-**Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**
-[J Cheminform 1, 8 (2009)](http://www.jcheminf.com/content/1/1/8) |  [code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
+**Estimation of synthetic accessibility score of drug-like molecules based on molecular complexity and fragment contributions**  
+[J Cheminform 1, 8 (2009)](http://www.jcheminf.com/content/1/1/8) |  [code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
 
 ### RAscore
 
-**Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning**
+**Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning**  
 [Chemical Science 12.9 (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05401a) |  [code](https://github.com/reymond-group/RAscore) 
 
 ### Evaluation metrics
 
-* **Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity** [2023]
-  Krzyzanowski, Adrian, Axel Pahl, Michael Grigalunas, and Herbert Waldmann.
-  [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c00689) | [chemrxiv-2023-nd1ll](https://chemrxiv.org/engage/chemrxiv/article-details/64257af562fecd2a83add9c2) |  [code](https://github.com/frog2000/Spacial-Score) 
-* **An automated scoring function to facilitate and standardize evaluation of goal-directedgenerative models for de novo molecular design** [2023]
-  Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.
-  [chemrxiv-2023-c4867](https://doi.org/10.26434/chemrxiv-2023-c4867) |  [code](https://github.com/MorganCThomas/MolScore) 
-* **FCD : Fréchet ChemNet Distance**
-  Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery
-  Preuer, Kristina, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, and Gunter Klambauer.
-  [J. Chem. Inf. Model. 2018, 58, 9, 1736–1741](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00234) |  [code](https://github.com/bioinf-jku/FCD)
+* **Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity** [2023]  
+  Krzyzanowski, Adrian, Axel Pahl, Michael Grigalunas, and Herbert Waldmann.   
+  [J. Med. Chem. (2023)](https://doi.org/10.1021/acs.jmedchem.3c00689) | [chemrxiv-2023-nd1ll](https://chemrxiv.org/engage/chemrxiv/article-details/64257af562fecd2a83add9c2) |  [code](https://github.com/frog2000/Spacial-Score)   
+* **An automated scoring function to facilitate and standardize evaluation of goal-directedgenerative models for de novo molecular design** [2023]  
+  Thomas, Morgan, Noel M. O'Boyle, Andreas Bender, and Chris De Graaf.  
+  [chemrxiv-2023-c4867](https://doi.org/10.26434/chemrxiv-2023-c4867) |  [code](https://github.com/MorganCThomas/MolScore)   
+* **FCD : Fréchet ChemNet Distance**  
+  Fréchet ChemNet Distance: A Metric for Generative Models for Molecules in Drug Discovery  
+  Preuer, Kristina, Philipp Renz, Thomas Unterthiner, Sepp Hochreiter, and Gunter Klambauer.  
+  [J. Chem. Inf. Model. 2018, 58, 9, 1736–1741](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00234) |  [code](https://github.com/bioinf-jku/FCD)  
 * **Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models** [2022]
-  Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.
-  [J. Chem. Inf. Model. 2022, 62, 5, 1199–1206](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity) 
-* **AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading** (Vina AutoDock)
-  Oleg Trott, Arthur J. Olson
-  [JCC 2010](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.21334)
+  Moret, M., Grisoni, F., Katzberger, P. and Schneider, G.  
+  [J. Chem. Inf. Model. 2022, 62, 5, 1199–1206](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00079) |  [code](https://github.com/ETHmodlab/CLM_perplexity)   
+* **AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading** (Vina AutoDock)  
+  Oleg Trott, Arthur J. Olson  
+  [JCC 2010](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.21334)  
 
 
 
 ## #To check later
 
-- **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design**
-  *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* 
-  arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)]
+- **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design**  
+  *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia*   
+  arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)]  
 
-- **Equivariant Energy-Guided SDE for Inverse Molecular Design**
-  *Fan Bao<sup>1</sup>, Min Zhao<sup>1</sup>, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu*
-  arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15408)] 
+- **Equivariant Energy-Guided SDE for Inverse Molecular Design**  
+  *Fan Bao<sup>1</sup>, Min Zhao<sup>1</sup>, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu*  
+  arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15408)]   
 
-- **Diffusion-based Molecule Generation with Informative Prior Bridges**
-  Lemeng Wu<sup>1</sup>, Chengyue Gong<sup>1</sup>, Xingchao Liu, Mao Ye, Qiang Liu* 
-  NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.00865)] 
+- **Diffusion-based Molecule Generation with Informative Prior Bridges**  
+  Lemeng Wu<sup>1</sup>, Chengyue Gong<sup>1</sup>, Xingchao Liu, Mao Ye, Qiang Liu*   
+  NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.00865)]   
 
-- **Geometry-Complete Diffusion for 3D Molecule Generation**
-  [ICLR MLDD 2023]  [[Paper\]](https://arxiv.org/abs/2302.04313)[[Code\]](https://github.com/BioinfoMachineLearning/bio-diffusion)
+- **Geometry-Complete Diffusion for 3D Molecule Generation**  
+  [ICLR MLDD 2023]  [[Paper\]](https://arxiv.org/abs/2302.04313)[[Code\]](https://github.com/BioinfoMachineLearning/bio-diffusion)  
 - [ACS 2023] **SILVR: Guided Diffusion for Molecule Generation** [[Paper\]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00667#)[[Code\]](https://github.com/nichrun/e3_diffusion_for_molecules)
 - **Diff-Shape: A Novel Constrained Diffusion Model for Shape based De Novo Drug Design**   [2024]   
   Lin, Jie, Mingyuan Xu, and Hongming Chen.   

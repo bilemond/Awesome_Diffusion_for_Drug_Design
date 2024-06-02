@@ -21,34 +21,40 @@
 
 ### Target-Agnostic Generation
 
-* **Equivariant Diffusion for Molecule Generation in 3D** (EDM) 
-  Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, Max Welling
-  [ICML 2022](https://proceedings.mlr.press/v162/hoogeboom22a.html) [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)]
-* **Geometry-Complete Diffusion for 3D Molecule Generation and Optimization** (GCDM)
-  Alex Morehead, Jianlin Cheng
-  [arXiv:2302.04313 (2023)](https://arxiv.org/abs/2302.04313)
-* **MDM: Molecular Diffusion Model for 3D Molecule Generation** (MDM) 
-  Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong
-  [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25639)
-* **Geometric Latent Diffusion Models for 3D Molecule Generation** (GeoLDM)
-  Minkai Xu, Alexander S Powers, Ron O. Dror, Stefano Ermon, Jure Leskovec 
-  [ICML 2023](https://proceedings.mlr.press/v202/xu23n.html)
-* **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** (JODO) 
-  Han Huang, Leilei Sun, Bowen Du, Weifeng Lv
-  [arXiv:2305.12347 (2023)](https://arxiv.org/abs/2305.12347)
+* **Equivariant Diffusion for Molecule Generation in 3D** (EDM)    
+  Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, Max Welling    
+  [ICML 2022](https://proceedings.mlr.press/v162/hoogeboom22a.html) [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)]    
+
+* **Geometry-Complete Diffusion for 3D Molecule Generation and Optimization** (GCDM)    
+  Alex Morehead, Jianlin Cheng    
+  [arXiv:2302.04313 (2023)](https://arxiv.org/abs/2302.04313)    
+
+* **MDM: Molecular Diffusion Model for 3D Molecule Generation** (MDM)     
+  Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong    
+  [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25639)    
+
+* **Geometric Latent Diffusion Models for 3D Molecule Generation** (GeoLDM)    
+  Minkai Xu, Alexander S Powers, Ron O. Dror, Stefano Ermon, Jure Leskovec     
+  [ICML 2023](https://proceedings.mlr.press/v202/xu23n.html)    
+
+* **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** (JODO)    
+  Han Huang, Leilei Sun, Bowen Du, Weifeng Lv      
+  [arXiv:2305.12347 (2023)](https://arxiv.org/abs/2305.12347)    
+
 * **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** (MiDi)
   Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard
   [arXiv:2302.09048 (2023)](https://arxiv.org/abs/2302.09048)
 
-- **Domain-Agnostic Molecular Generation with Self-feedback** [[Paper\]](https://arxiv.org/abs/2301.11259)[[Code\]](https://github.com/zjunlp/MolGen)
-  [arXiv 2023] 
+- **Domain-Agnostic Molecular Generation with Self-feedback** 
+  [Paper\]](https://arxiv.org/abs/2301.11259)[[Code\]](https://github.com/zjunlp/MolGen)
+  [arXiv 2023]
+
 - 
 
 ### Target-Aware Generation
 
 - **Structure-based Drug Design with Equivariant Diffusion Models**
   Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia
-
   [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  [[Github](https://github.com/arneschneuing/DiffSBDD)]
 
 - **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** (TargetDiff)
@@ -248,10 +254,6 @@
 - **Field-based Molecule Generation** [2024]
   Dumitrescu, Alexandru, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, and Harri Lähdesmäki.    
   [arXiv:2402.15864 (2024)](https://arxiv.org/abs/2402.15864) 
-
-- **Text-Guided Molecule Generation with Diffusion Language Model** [2024]
-  Gong, Haisong, Qiang Liu, Shu Wu, and Liang Wang. 
-  [arXiv:2402.13040 (2024)](https://arxiv.org/abs/2402.13040)  |  [code](https://github.com/Deno-V/tgm-dlm) 
 
 - **Inverse Molecular Design with Multi-Conditional Diffusion Guidance** [2024]
   Liu, Gang, Jiaxin Xu, Tengfei Luo, and Meng Jiang. 

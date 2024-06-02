@@ -4,16 +4,17 @@
 
 # Contents
 
-- [De Novo Drug Design](#De Novo Drug Design)
+- [De Novo Drug Design](#de-novo-drug-design)
+  - [Target-Agnostic Generation](#target-agnostic-generation)
+  - [Target-Aware Generation](#target-aware-generation)
+  - [Conformation Generation](#conformation-generation)
+- [Molecular Optimization For Drug Design](#molecular-optimization-for-drug-design)
+  - [Fragment-based drug discovery](Fragment-based-drug-discovery)
+  - [Scaffold-based DMGs](Scaffold-based-DMGs)
 
-  - [Target-Agnostic Generation](#Target-Agnostic Generation)
+- [Structure-based Drug Design](Structure-based-Drug-Design)
+- [Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics)
 
-  - [Target-Aware Generation](#Target-Aware Generation)
-
-  - [Conformation Generation](#Conformation Generation)
-
-- [Molecular Optimization For Drug Design](#Molecular Optimization For Drug Design)
-- [Drug-likeness and Evaluation metrics](#Drug-likeness and Evaluation metrics)
 
 # Papers
 
@@ -46,8 +47,7 @@
   [arXiv:2302.09048 (2023)](https://arxiv.org/abs/2302.09048)  
 
 - **Domain-Agnostic Molecular Generation with Self-feedback**    
-  [[Paper\]](https://arxiv.org/abs/2301.11259) [[Code\]](https://github.com/zjunlp/MolGen)      
-  [arXiv 2023]      
+  [[Paper\]](https://arxiv.org/abs/2301.11259) [[Code\]](https://github.com/zjunlp/MolGen)[arXiv 2023]      
 
 - 
 
@@ -101,7 +101,7 @@
 
 * 
 
-## Structure-based deep molecular generative models
+## Structure-based Drug Design
 
 * **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]      
   Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    

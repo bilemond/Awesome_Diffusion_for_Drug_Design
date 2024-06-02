@@ -22,7 +22,7 @@
 
 ### Target-Agnostic Generation
 
-* **Equivariant Diffusion for Molecule Generation in 3D** (EDM)    
+* **Equivariant Diffusion for Molecule Generation in 3D** ([EDM](papers/Equivariant-Diffusion-for-Molecule-Generation-in-3D.md))    
   Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, Max Welling    
   [ICML 2022](https://proceedings.mlr.press/v162/hoogeboom22a.html) [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)]    
 

@@ -42,60 +42,60 @@
   [arXiv:2305.12347 (2023)](https://arxiv.org/abs/2305.12347)    
 
 * **MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation** (MiDi)  
-  Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard  
+  Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard   
   [arXiv:2302.09048 (2023)](https://arxiv.org/abs/2302.09048)  
 
-- **Domain-Agnostic Molecular Generation with Self-feedback**   
-  [Paper\]](https://arxiv.org/abs/2301.11259)[[Code\]](https://github.com/zjunlp/MolGen)  
-  [arXiv 2023]  
+- **Domain-Agnostic Molecular Generation with Self-feedback**    
+  [[Paper\]](https://arxiv.org/abs/2301.11259) [[Code\]](https://github.com/zjunlp/MolGen)      
+  [arXiv 2023]      
 
 - 
 
 ### Target-Aware Generation
 
-- **Structure-based Drug Design with Equivariant Diffusion Models**  
-  Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia  
-  [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  [[Github](https://github.com/arneschneuing/DiffSBDD)]  
+- **Structure-based Drug Design with Equivariant Diffusion Models**      
+  Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia      
+  [arXiv:2210.13695 (2022)](https://arxiv.org/abs/2210.13695)  [[Github](https://github.com/arneschneuing/DiffSBDD)]      
 
-- **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** (TargetDiff)  
-  Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma  
-  [ICLR 2023](https://arxiv.org/abs/2303.03543)  
+- **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** (TargetDiff)      
+  Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma      
+  [ICLR 2023](https://arxiv.org/abs/2303.03543)      
 
 - 
 
 ### Conformation Generation(append)  
 
-- **Torsional Diffusion for Molecular Conformer Generation**  
-  Bowen Jing, Gabriele Corso, Regina Barzilay, Tommi S. Jaakkola*  
+- **Torsional Diffusion for Molecular Conformer Generation**      
+  Bowen Jing, Gabriele Corso, Regina Barzilay, Tommi S. Jaakkola*     
   ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)]  
   
-- **Predicting Molecular Conformation via Dynamic Graph Score Matching**  
-  Shitong Luo, Chence Shi, Minkai Xu, Jian Tang*  
+- **Predicting Molecular Conformation via Dynamic Graph Score Matching**      
+  Shitong Luo, Chence Shi, Minkai Xu, Jian Tang*      
   NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)]  
-- **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** (GeoDiff)  
-  Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang  
-  [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)  
+- **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** (GeoDiff)      
+  Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang      
+  [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)      
 - 
 
 ## Molecular Optimization For Drug Design
 
-- **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]  
-  Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.  
-  [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463)  
-- **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [2023]  
-  Huang, Lei.  
-  [bioRxiv 2023.01.28.526011](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1)  
+- **Diffusing on Two Levels and Optimizing for Multiple Properties: A Novel Approach to Generating Molecules with Desirable Properties** [2023]      
+  Guo, Siyuan, Jihong Guan, and Shuigeng Zhou.      
+  [arXiv:2310.04463 (2023)](https://arxiv.org/abs/2310.04463)      
+- **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [2023]      
+  Huang, Lei.      
+  [bioRxiv 2023.01.28.526011](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1)      
 
 ### Fragment-based drug discovery
 
-* **ReBADD-SE: Multi-objective molecular optimization using SELFIES fragment and off-policy self-critical sequence training** [2023]   
-  Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.   
-  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE)   
+* **ReBADD-SE: Multi-objective molecular optimization using SELFIES fragment and off-policy self-critical sequence training** [2023]       
+  Choi, Jonghwan, Sangmin Seo, Seungyeon Choi, Shengmin Piao, Chihyun Park, Sung Jin Ryu, Byung Ju Kim, and Sanghyun Park.       
+  [Computers in Biology and Medicine 157 (2023)](https://doi.org/10.1016/j.compbiomed.2023.106721) |  [code](https://github.com/mathcom/ReBADD-SE)       
 * 
 
 ### Scaffold-based DMGs
 
-* **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]   
+* **DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion** [2023]       
   Xie, Junjie, Sheng Chen, Jinping Lei, and Yuedong Yang.    
   [bioRxiv (2023)](https://doi.org/10.1101/2023.10.08.561377)   
 
@@ -103,12 +103,12 @@
 
 ## Structure-based deep molecular generative models
 
-* **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]  
+* **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**  [2024]      
   Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
   [IEEE Transactions on Artificial Intelligence (2024)](https://doi.org/10.1109/TAI.2024.3387402)  |  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
-* **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]   
-  Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.    
-  [arXiv:2404.02003 (2024)](https://arxiv.org/html/2404.02003v1)  
+* **AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design** [2024]       
+  Li, Xinze, Penglei Wang, Tianfan Fu, Wenhao Gao, Chengtao Li, Leilei Shi, and Junhong Liu.        
+  [arXiv:2404.02003 (2024)](https://arxiv.org/html/2404.02003v1)      
 * **MolSnapper: Conditioning Diffusion for Structure Based Drug Design** [2024]   
   Ziv, Yael, Brian Marsden, and Charlotte Deane.    
   [bioRxiv (2024)](https://doi.org/10.1101/2024.03.28.586278)  |  [code](https://github.com/oxpig/MolSnapper) 

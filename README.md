@@ -1,6 +1,6 @@
 # Awesome Diffusion Models for Drug Design
 
-[![Awesome](assets/badge.svg)]([bilemond/Awesome_Diffusion_for_Drug_Design (github.com)](https://github.com/bilemond/Awesome_Diffusion_for_Drug_Design)) [![License: MIT](assets/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Awesome](assets/badge.svg)](https://github.com/bilemond/Awesome_Diffusion_for_Drug_Design) [![License: MIT](assets/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Contents
 

@@ -2,6 +2,11 @@
 
 [![Awesome](assets/badge.svg)](https://github.com/bilemond/Awesome_Diffusion_for_Drug_Design) [![License: MIT](assets/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+This is a repository summarizing the papers on the topic of Diffusion Models for Drug Design, and I also summarize the papers of ICML, ICLR, and NeurIPS.
+
+- [[ICML24] Molecules Generation](conference/ICML24_Molecules_Generation.md)
+- [[ICLR24] Molecules Generation](conference/ICLR24_Molecules_Generation.md)
+
 # Contents
 
 - [De Novo Drug Design](#de-novo-drug-design)
@@ -81,9 +86,18 @@
 
 ## Controllable Molecular generation
 
+How to control：
+
+- **Preference Optimization for Molecule Synthesis with Conditional Residual Energy-based Models**           
+  [Songtao Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+S), [Hanjun Dai](https://arxiv.org/search/cs?searchtype=author&query=Dai,+H), [Yue Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+Y), [Peng Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+P)           
+  ICML 2024 oral  [arXiv:2406.02066](https://arxiv.org/abs/2406.02066)  |    [code](https://github.com/SongtaoLiu0823/CREBM)
+- [Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design ](https://openreview.net/forum?id=8NfHmzo0Op)          
 - **Geometric Latent Diffusion Models for 3D Molecule Generation** ([GeoLDM](papers/GeoLDM.md))    
   Minkai Xu, Alexander S Powers, Ron O. Dror, Stefano Ermon, Jure Leskovec     
   [ICML 2023](https://proceedings.mlr.press/v202/xu23n.html)    
+- **Training-free Multi-objective Diffusion Model for 3D Molecule Generation**                   
+  [Microsoft Research Asia, Microsoft Research AI4Science]  [Xu Han](https://openreview.net/profile?id=~Xu_Han9), [Caihua Shan](https://openreview.net/profile?id=~Caihua_Shan1), [Yifei Shen](https://openreview.net/profile?id=~Yifei_Shen1), [Can Xu](https://openreview.net/profile?id=~Can_Xu7), [Han Yang](https://openreview.net/profile?id=~Han_Yang6), [Xiang Li](https://openreview.net/profile?id=~Xiang_Li24), [Dongsheng Li ](https://openreview.net/profile?id=~Dongsheng_Li2)                
+  ICLR 2024 poster  
 - **Retrieval-based Controllable Molecule Generation** (RetMol)          
   [Zichao Wang](https://arxiv.org/search/q-bio?searchtype=author&query=Wang,+Z), [Weili Nie](https://arxiv.org/search/q-bio?searchtype=author&query=Nie,+W), [Zhuoran Qiao](https://arxiv.org/search/q-bio?searchtype=author&query=Qiao,+Z), [Chaowei Xiao](https://arxiv.org/search/q-bio?searchtype=author&query=Xiao,+C), [Richard Baraniuk](https://arxiv.org/search/q-bio?searchtype=author&query=Baraniuk,+R), [Anima Anandkumar](https://arxiv.org/search/q-bio?searchtype=author&query=Anandkumar,+A)               
   [ICLR-2023](https://arxiv.org/abs/2208.11126)   |   [code](https://github.com/NVlabs/RetMol)                 
@@ -96,6 +110,30 @@
 - **DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**             
   [Xiangxin Zhou](https://arxiv.org/search/?searchtype=author&query=Zhou%2C+X), [Xiwei Cheng](https://arxiv.org/search/?searchtype=author&query=Cheng%2C+X), [Yuwei Yang](https://arxiv.org/search/?searchtype=author&query=Yang%2C+Y), [Yu Bao](https://arxiv.org/search/?searchtype=author&query=Bao%2C+Y), [Liang Wang](https://arxiv.org/search/?searchtype=author&query=Wang%2C+L), [Quanquan Gu](https://arxiv.org/search/?searchtype=author&query=Gu%2C+Q)             
   [arXiv:2403.13829](https://arxiv.org/abs/2403.13829)
+- Plug-And-Play Controllable Graph Generation With Diffusion Models                   
+  
+
+## Few shot Molecular Generation
+
+- Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation            
+  ICML24
+- Representing Molecules as Random Walks Over Interpretable Grammars           
+  [ICML 2024 Spotlight]
+- Data-Efficient Molecular Generation with Hierarchical Textual Inversion              
+  [ICML 2024 poster]
+
+
+
+## Molecular Generation With Feedback
+
+- Domain-Agnostic Molecular Generation with Chemical Feedback         
+  ICML24
+- 
+
+## Molecular Generation With Bayesian Flow
+
+- Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks
+  ICML24
 - 
 
 ## Molecular Optimization For Drug Design

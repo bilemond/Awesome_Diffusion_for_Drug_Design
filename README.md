@@ -84,7 +84,7 @@ This is a repository summarizing the papers on the topic of Diffusion Models for
   [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)      
 - 
 
-## Controllable Molecular generation
+## Controllable Molecular Generation
 
 How to control：
 

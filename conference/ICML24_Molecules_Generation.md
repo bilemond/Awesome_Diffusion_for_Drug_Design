@@ -4,9 +4,10 @@ This is a repository summarizing the papers on molecular generation from ICML24.
 
 ## Controllable Molecular generation
 
-- [Domain-Aware Guidance for Out-of-Distribution Molecular Design](https://icml.cc/virtual/2024/poster/34850)          
+- [Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design](https://icml.cc/virtual/2024/poster/34850)          
   Leo Klarner, Tim G. J. Rudner, Garrett Morris, Charlotte Deane, Yee-Whye Teh
-
+  
+  
 - [Projecting Molecules into Synthesizable Chemical Spaces](https://icml.cc/virtual/2024/poster/32903)          
   Shitong Luo, Wenhao Gao, Zuofan Wu, Jian Peng, Connor Coley, Jianzhu Ma
 
@@ -53,6 +54,8 @@ This is a repository summarizing the papers on molecular generation from ICML24.
   textual inversion
 - [Representing Molecules as Random Walks Over Interpretable Grammars](https://icml.cc/virtual/2024/poster/33427)          
   Michael Sun, Minghao Guo, Weize Yuan, Veronika Thost, Crystal Owens, Aristotle Grosz, Sharvaa Selvan, Katelyn Zhou, Hassan Mohiuddin, Benjamin Pedretti, Zachary Smith, Jie Chen, Wojciech Matusik
+- [Domain-Aware Guidance for Out-of-Distribution Molecular Design](https://icml.cc/virtual/2024/poster/34850)          
+  Leo Klarner, Tim G. J. Rudner, Garrett Morris, Charlotte Deane, Yee-Whye Teh
 
 
 

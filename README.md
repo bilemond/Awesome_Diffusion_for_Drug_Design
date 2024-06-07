@@ -8,10 +8,10 @@
   - [Target-Agnostic Generation](#target-agnostic-generation)
   - [Target-Aware Generation](#target-aware-generation)
   - [Conformation Generation](#conformation-generation)
+- [Controllable Molecular generation](#Controllable-Molecular-generation)
 - [Molecular Optimization For Drug Design](#molecular-optimization-for-drug-design)
   - [Fragment-based drug discovery](Fragment-based-drug-discovery)
   - [Scaffold-based DMGs](Scaffold-based-DMGs)
-
 - [Structure-based Drug Design](Structure-based-Drug-Design)
 - [Drug-likeness and Evaluation metrics](#drug-likeness-and-evaluation-metrics)
 
@@ -77,6 +77,26 @@
 - **GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation** (GeoDiff)      
   Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang      
   [ICLR 2022](https://openreview.net/forum?id=PzcvxEMzvQC)      
+- 
+
+## Controllable Molecular generation
+
+- **Geometric Latent Diffusion Models for 3D Molecule Generation** ([GeoLDM](papers/GeoLDM.md))    
+  Minkai Xu, Alexander S Powers, Ron O. Dror, Stefano Ermon, Jure Leskovec     
+  [ICML 2023](https://proceedings.mlr.press/v202/xu23n.html)    
+- **Retrieval-based Controllable Molecule Generation** (RetMol)          
+  [Zichao Wang](https://arxiv.org/search/q-bio?searchtype=author&query=Wang,+Z), [Weili Nie](https://arxiv.org/search/q-bio?searchtype=author&query=Nie,+W), [Zhuoran Qiao](https://arxiv.org/search/q-bio?searchtype=author&query=Qiao,+Z), [Chaowei Xiao](https://arxiv.org/search/q-bio?searchtype=author&query=Xiao,+C), [Richard Baraniuk](https://arxiv.org/search/q-bio?searchtype=author&query=Baraniuk,+R), [Anima Anandkumar](https://arxiv.org/search/q-bio?searchtype=author&query=Anandkumar,+A)               
+  [ICLR-2023](https://arxiv.org/abs/2208.11126)   |   [code](https://github.com/NVlabs/RetMol)                 
+- **ControlMol: Adding Substruture Control To Molecule Diffusion Models**                 
+  [Qi Zhengyang](https://arxiv.org/search/q-bio?searchtype=author&query=Zhengyang,+Q), [Liu Zijing](https://arxiv.org/search/q-bio?searchtype=author&query=Zijing,+L), [Zhang Jiying](https://arxiv.org/search/q-bio?searchtype=author&query=Jiying,+Z), [Cao He](https://arxiv.org/search/q-bio?searchtype=author&query=He,+C), [Li Yu ](https://arxiv.org/search/q-bio?searchtype=author&query=Yu,+L)             
+  [Arxiv-2405.06659](https://arxiv.org/abs/2405.06659)
+- **Diffusion-Driven Domain Adaptation for Generating 3D Molecules**                   
+  Authors: [Haokai Hong](https://arxiv.org/search/?searchtype=author&query=Hong%2C+H), [Wanyu Lin](https://arxiv.org/search/?searchtype=author&query=Lin%2C+W), [Kay Chen Tan](https://arxiv.org/search/?searchtype=author&query=Tan%2C+K+C)           
+  [arXiv:2404.00962](https://arxiv.org/abs/2404.00962)
+- **DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**             
+  [Xiangxin Zhou](https://arxiv.org/search/?searchtype=author&query=Zhou%2C+X), [Xiwei Cheng](https://arxiv.org/search/?searchtype=author&query=Cheng%2C+X), [Yuwei Yang](https://arxiv.org/search/?searchtype=author&query=Yang%2C+Y), [Yu Bao](https://arxiv.org/search/?searchtype=author&query=Bao%2C+Y), [Liang Wang](https://arxiv.org/search/?searchtype=author&query=Wang%2C+L), [Quanquan Gu](https://arxiv.org/search/?searchtype=author&query=Gu%2C+Q)             
+  [arXiv:2403.13829](https://arxiv.org/abs/2403.13829)
+- 
 - 
 
 ## Molecular Optimization For Drug Design

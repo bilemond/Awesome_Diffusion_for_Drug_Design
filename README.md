@@ -92,10 +92,10 @@ How to control：
   [Songtao Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+S), [Hanjun Dai](https://arxiv.org/search/cs?searchtype=author&query=Dai,+H), [Yue Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+Y), [Peng Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+P)           
   ICML 2024 oral  [arXiv:2406.02066](https://arxiv.org/abs/2406.02066)  |    [code](https://github.com/SongtaoLiu0823/CREBM)
 - [Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design ](https://openreview.net/forum?id=8NfHmzo0Op)          
-- **Geometric Latent Diffusion Models for 3D Molecule Generation** ([GeoLDM](papers/GeoLDM.md))    
+- ([GeoLDM](papers/GeoLDM.md)) **Geometric Latent Diffusion Models for 3D Molecule Generation**   
   Minkai Xu, Alexander S Powers, Ron O. Dror, Stefano Ermon, Jure Leskovec     
   [ICML 2023](https://proceedings.mlr.press/v202/xu23n.html)    
-- **Training-free Multi-objective Diffusion Model for 3D Molecule Generation**                   
+- ([MUDM](papers/MUDM.md)) **Training-free Multi-objective Diffusion Model for 3D Molecule Generation**                   
   [Microsoft Research Asia, Microsoft Research AI4Science]  [Xu Han](https://openreview.net/profile?id=~Xu_Han9), [Caihua Shan](https://openreview.net/profile?id=~Caihua_Shan1), [Yifei Shen](https://openreview.net/profile?id=~Yifei_Shen1), [Can Xu](https://openreview.net/profile?id=~Can_Xu7), [Han Yang](https://openreview.net/profile?id=~Han_Yang6), [Xiang Li](https://openreview.net/profile?id=~Xiang_Li24), [Dongsheng Li ](https://openreview.net/profile?id=~Dongsheng_Li2)                
   ICLR 2024 poster  
 - **Retrieval-based Controllable Molecule Generation** (RetMol)          
@@ -111,12 +111,15 @@ How to control：
   [Xiangxin Zhou](https://arxiv.org/search/?searchtype=author&query=Zhou%2C+X), [Xiwei Cheng](https://arxiv.org/search/?searchtype=author&query=Cheng%2C+X), [Yuwei Yang](https://arxiv.org/search/?searchtype=author&query=Yang%2C+Y), [Yu Bao](https://arxiv.org/search/?searchtype=author&query=Bao%2C+Y), [Liang Wang](https://arxiv.org/search/?searchtype=author&query=Wang%2C+L), [Quanquan Gu](https://arxiv.org/search/?searchtype=author&query=Gu%2C+Q)             
   [arXiv:2403.13829](https://arxiv.org/abs/2403.13829)
 - Plug-And-Play Controllable Graph Generation With Diffusion Models                   
-  
+- **A Property-Guided Diffusion Model For Generating Molecular Graphs**   [2024]   
+  Ma, Changsheng, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, and Xiangliang Zhang.    
+  [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE (2024)](https://doi.org/10.1109/ICASSP48485.2024.10447350)  
 
 ## Few shot Molecular Generation
 
-- Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation            
-  ICML24
+- **Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation** [2024]   
+  Le, Tuan, Julian Cremer, Frank Noé, Djork-Arné Clevert, and Kristof Schütt.    
+  [International Conference on Learning Representations (ICLR).  (2024)](https://openreview.net/pdf?id=kzGuiRXZrQ)  |  [code](https://github.com/tuanle618/eqgat-diff) 
 - Representing Molecules as Random Walks Over Interpretable Grammars           
   [ICML 2024 Spotlight]
 - Data-Efficient Molecular Generation with Hierarchical Textual Inversion              
@@ -128,13 +131,11 @@ How to control：
 
 - Domain-Agnostic Molecular Generation with Chemical Feedback         
   ICML24
-- 
 
 ## Molecular Generation With Bayesian Flow
 
-- Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks
+- Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks           
   ICML24
-- 
 
 ## Molecular Optimization For Drug Design
 
@@ -299,9 +300,6 @@ How to control：
 - **Diff-Shape: A Novel Constrained Diffusion Model for Shape based De Novo Drug Design**   [2024]   
   Lin, Jie, Mingyuan Xu, and Hongming Chen.   
   [chemrxiv-2024-km0h1 (2024)](https://doi.org/10.26434/chemrxiv-2024-km0h1)  
-- **A Property-Guided Diffusion Model For Generating Molecular Graphs**   [2024]   
-  Ma, Changsheng, Taicheng Guo, Qiang Yang, Xiuying Chen, Xin Gao, Shangsong Liang, Nitesh Chawla, and Xiangliang Zhang.    
-  [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE (2024)](https://doi.org/10.1109/ICASSP48485.2024.10447350)  
 - **A unified conditional diffusion framework for dual protein targets based bioactive molecule generation**   [2024]   
   Huang, Lei, Zheng Yuan, Huihui Yan, Rong Sheng, Linjing Liu, Fuzhou Wang, Weidun Xie et al.    
   [IEEE Transactions on Artificial Intelligence (2024)](https://doi.org/10.1109/TAI.2024.3387402)  |  [arXiv:2306.13957 (2023)](https://arxiv.org/abs/2306.13957) 
@@ -313,9 +311,6 @@ How to control：
 - **Field-based Molecule Generation** [2024]
   Dumitrescu, Alexandru, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, and Harri Lähdesmäki.    
   [arXiv:2402.15864 (2024)](https://arxiv.org/abs/2402.15864) 
-- **Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation** [2024]   
-  Le, Tuan, Julian Cremer, Frank Noé, Djork-Arné Clevert, and Kristof Schütt.    
-  [International Conference on Learning Representations (ICLR).  (2024)](https://openreview.net/pdf?id=kzGuiRXZrQ)  |  [code](https://github.com/tuanle618/eqgat-diff) 
 - **LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion** [2023]   
   Guan, Jiaqi, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma    
   [NeurIPS 2023.  (2023)](https://openreview.net/forum?id=6EaLIw3W7c) |  [code](https://github.com/guanjq/LinkerNet) 

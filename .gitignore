@@ -4,7 +4,7 @@
 *.ipynb
 *.gif
 *.mp4
-*.png
+# *.png
 *.out
 *.csv
 datasets/

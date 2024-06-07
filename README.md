@@ -97,7 +97,6 @@
   [Xiangxin Zhou](https://arxiv.org/search/?searchtype=author&query=Zhou%2C+X), [Xiwei Cheng](https://arxiv.org/search/?searchtype=author&query=Cheng%2C+X), [Yuwei Yang](https://arxiv.org/search/?searchtype=author&query=Yang%2C+Y), [Yu Bao](https://arxiv.org/search/?searchtype=author&query=Bao%2C+Y), [Liang Wang](https://arxiv.org/search/?searchtype=author&query=Wang%2C+L), [Quanquan Gu](https://arxiv.org/search/?searchtype=author&query=Gu%2C+Q)             
   [arXiv:2403.13829](https://arxiv.org/abs/2403.13829)
 - 
-- 
 
 ## Molecular Optimization For Drug Design
 
